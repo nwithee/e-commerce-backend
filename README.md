@@ -26,7 +26,7 @@
   NA
 
   ## Demo Video
-  tbd
+  https://github.com/nwithee/e-commerce-backend/blob/main/assets/Screen%20Recording%202022-05-02%20at%207.58.22%20PM.mov
   
   ## Questions?
   You can find all of my projects at https://github.com/nwithee
